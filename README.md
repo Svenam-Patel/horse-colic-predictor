@@ -36,3 +36,8 @@ Steps 6-10 learn their numbers from the training set only, so there is no data l
 - L2 strength chosen by 5-fold cross-validation on the training set only
 - Metrics: accuracy, precision, recall, F1, confusion matrix, ROC / AUC
 - Over/underfitting: train vs cross-validation accuracy across L2 strengths (`plots/6_regularisation.png`)
+
+
+# 🐴 Horse Colic Survival Predictor
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://svenam-patel-horse-colic-predictor.streamlit.app)
